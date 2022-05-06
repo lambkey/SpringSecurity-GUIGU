@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--MyBatis的DTD约束-->
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--
+    mapper：核心的root标签
+    namespace：命名空间
+-->
+<mapper namespace="lamb.key.mapper.AdminMapper">
+    <!--
+        select:查询标签
+        id属性：唯一标识
+        resultType：指定结果映射对象类型
+        parameterType:指定参数映射对象类型
+     -->
+
+</mapper>
